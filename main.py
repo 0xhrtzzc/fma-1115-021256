@@ -1523,3 +1523,4 @@ def main() -> int:
 
 if __name__ == '__main__':
     raise SystemExit(main())
+# This file is the whole entry: it registers the free-model catalog with the env and answers both client wires from the one gateway.
